@@ -19,9 +19,9 @@ Catch The Insect is an engaging browser-based game where players choose their fa
 
 ## How to Play
 
-Click the Play Game button to start.
-Choose your favorite insect from the options provided.
-Click on the insects as they appear to catch them and increase your score.
-The game ends when you choose to stop or reach a high score milestone.
+Click the Play Game button to start.<br>
+Choose your favorite insect from the options provided.<br>
+Click on the insects as they appear to catch them and increase your score.<br>
+The game ends when you choose to stop or reach a high score milestone.<br>
 
 
